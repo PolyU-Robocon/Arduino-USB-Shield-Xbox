@@ -1,8 +1,8 @@
 # Arduino-USB-Shield-Xbox Example Project
 this is based on [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0)
 # Hardware Required 
-* arundino
-* USB_Host_Shield_2.0
+* Arduino Uno/Mini
+* USB_Host_Shield_2.0 for your verison of Arduino
 * bluetooth 4.x USB dongle
 * Xbox ONE S Gamepad(with 2 AA batteries)
 # Prerequisites
