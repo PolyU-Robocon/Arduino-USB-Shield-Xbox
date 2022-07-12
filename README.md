@@ -20,6 +20,7 @@ Arudino>Tools>Manage Libraries
 
 # Versioning
 `main` branch used arudino IDE
+'PIO' PlatformIO verison
 
 # Maintenance
 This REPO is maintened by `T.Steve`
