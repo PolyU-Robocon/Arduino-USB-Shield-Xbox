@@ -1,0 +1,5 @@
+{
+    "sketch": "example_XBOX.ino",
+    "port": "COM3",
+    "board": "arduino:avr:nano"
+}
