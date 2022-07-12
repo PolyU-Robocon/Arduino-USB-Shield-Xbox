@@ -4,7 +4,7 @@ this is based on [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_
 * arundino
 * USB_Host_Shield_2.0
 * bluetooth 4.x USB dongle
-* Xbox ONE S Gamepad
+* Xbox ONE S Gamepad(with 2 AA batteries)
 # Prerequisites
 * git
 * arudino IDE
